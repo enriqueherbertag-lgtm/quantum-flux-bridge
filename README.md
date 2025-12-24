@@ -1,4 +1,4 @@
-# Quantum-Flux Bridge
+Quantum-Flux Bridge
 
 **Protocolo Open-Source de Mejoramiento de Enlace para Comunicaciones Críticas**
 
