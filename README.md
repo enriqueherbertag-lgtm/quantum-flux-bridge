@@ -1,15 +1,15 @@
-# 🌐 Quantum-Flux Bridge
+# Quantum-Flux Bridge
 
 **Protocolo Open-Source de Mejoramiento de Enlace para Comunicaciones Críticas**
 
 ---
 
-## 🎯 Misión
+## Misión
 Proveer comunicaciones estables en zonas remotas mediante protocolos inteligentes que optimicen enlaces débiles o intermitentes, garantizando disponibilidad y resiliencia en entornos de baja conectividad.
 
 ---
 
-## ✨ Características
+## Características
 - **Multipath routing dinámico:** Distribuye el tráfico a través de múltiples rutas para maximizar la estabilidad.
 - **Compresión adaptativa:** Ajusta automáticamente el nivel de compresión según el tipo de dato (audio, video, texto, etc.).
 - **Forward Error Correction (FEC) personalizable:** Permite configurar la corrección de errores según las necesidades del entorno.
@@ -19,7 +19,7 @@ Proveer comunicaciones estables en zonas remotas mediante protocolos inteligente
 
 ---
 
-## 🚀 Casos de Uso
+## Casos de Uso
 1. **Emergencias:** Comunicación confiable cuando fallan redes tradicionales.
 2. **Telemedicina rural:** Transmisión estable de datos médicos en tiempo real.
 3. **Agricultura IoT:** Conexión de sensores en campos remotos con cobertura intermitente.
@@ -28,7 +28,7 @@ Proveer comunicaciones estables en zonas remotas mediante protocolos inteligente
 
 ---
 
-## 🔧 Instalación
+## Instalación
 
 ### Requisitos previos
 - Python 3.8 o superior
